@@ -1,0 +1,22 @@
+{
+  "name": "toy-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariagoretti05/Toy-Problem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariagoretti05/Toy-Problem/issues"
+  },
+  "homepage": "https://github.com/Mariagoretti05/Toy-Problem#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
