@@ -19,5 +19,5 @@
         Given the basic salary and benefits of an employee
 
 MIT License Copyright (c) 2022
-#### AUTHOR:
+## AUTHOR:
   Mariagoretti M.Kimani

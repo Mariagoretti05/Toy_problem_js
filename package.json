@@ -1,21 +1,21 @@
 {
-  "name": "toy-problem",
+  "name": "toy_problem_js",
   "version": "1.0.0",
-  "description": "",
-  "main": "grade.js",
+  "description": "## SOLVING A TOY PROBLEM   * Student Grade Generator   * (grade.js) :         a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows:",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mariagoretti05/Toy-Problem.git"
+    "url": "git+https://github.com/Mariagoretti05/Toy_problem_js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mariagoretti05/Toy-Problem/issues"
+    "url": "https://github.com/Mariagoretti05/Toy_problem_js/issues"
   },
-  "homepage": "https://github.com/Mariagoretti05/Toy-Problem#readme",
+  "homepage": "https://github.com/Mariagoretti05/Toy_problem_js#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
